@@ -4,6 +4,10 @@
 📚 Atualmente estudando: Python, Git/GitHub e lógica de programação.  
 🚀 Em constante evolução.
 
+🎓 Formação Acadêmica
+- Mestrado em Educação Física
+- Análise e Desenvolvimento de Sistemas – SENAC-SP (2024)
+  
 ### 🛠 Tecnologias
 - Python 
 - Git & GitHub
