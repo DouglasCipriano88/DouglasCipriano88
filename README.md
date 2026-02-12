@@ -5,7 +5,7 @@
 🚀 Em constante evolução.
 
 ### 🛠 Tecnologias
-- Python 🐍
+- Python 
 - Git & GitHub
 - Lógica de Programação
 
