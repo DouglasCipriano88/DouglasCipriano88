@@ -9,8 +9,6 @@
 - Análise e Desenvolvimento de Sistemas – SENAC-SP (2024)
 
 ## 📚 Iniciação Científica
-Durante a graduação em Análise e Desenvolvimento de Sistemas (SENAC-SP),
-realizei iniciação científica com o estudo:
 **“Estudo sistemático sobre integração de ferramentas anti-phishing no ciclo
 de vida de desenvolvimento de SaaS”**
 🔗 Link dos anais: https://heyzine.com/flip-book/68a62e1f4d.html#page/1 (pag.45)
